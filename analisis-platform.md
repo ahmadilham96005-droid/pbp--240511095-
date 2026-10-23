@@ -75,3 +75,11 @@ Oleh karena itu, pemilihan platform harus mempertimbangkan kebutuhan sistem, pen
 
 4. Apple Developer. **Apple Developer Documentation**.  
    https://developer.apple.com/documentation/
+   
+   ## Refleksi
+
+Setelah mempelajari perbandingan platform Web, Desktop, dan Mobile, platform yang paling menarik bagi saya adalah **Web**. Saya tertarik mempelajari web karena aplikasi web dapat diakses melalui berbagai perangkat tanpa harus melakukan instalasi. Selain itu, teknologi web seperti HTML, CSS, JavaScript, dan berbagai framework memiliki banyak peluang untuk digunakan dalam pengembangan sistem informasi. Saya juga tertarik karena hasil pengembangan web dapat langsung dilihat melalui browser sehingga proses belajar dan pengujian menjadi lebih mudah.
+
+Tantangan terbesar yang saya alami saat melakukan setup environment adalah **konfigurasi tools dan environment pemrograman**, terutama ketika menggunakan Git dan GitHub. Pada awalnya saya mengalami kendala karena Git belum memiliki konfigurasi nama dan email pengguna. Akibatnya, proses commit tidak dapat dilakukan. Saya juga perlu memahami perintah dasar Git seperti `git add`, `git commit`, dan `git push`.
+
+Untuk mengatasi tantangan tersebut, saya akan mempelajari dokumentasi resmi dan memahami fungsi setiap perintah Git sebelum menggunakannya. Saya juga akan berlatih membuat repository sederhana, melakukan perubahan file, kemudian melakukan commit dan push secara rutin. Dengan latihan tersebut, saya berharap lebih terbiasa menggunakan Git, GitHub, dan tools pengembangan sehingga proses pengerjaan proyek berikutnya menjadi lebih mudah dan terstruktur.
